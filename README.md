@@ -1,1 +1,1 @@
-Single channel queue simulation problems was class project.
+Single channel queue simulation problems was a class project,written in python.
