@@ -1,1 +1,1 @@
-# single-channel-queue-simulation-problems
+Single channel queue simulation problems was class project.
